@@ -1,4 +1,4 @@
-root {
+:root {
     --branco-principal: #a408ed;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -126,4 +126,3 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
-
